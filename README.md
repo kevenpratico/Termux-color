@@ -8,14 +8,19 @@ By :keipi
 
 $Apt install 
 
+$Apt install python
+
 $Apt install python3
+
+$git clone 
 
 $Apt install pkg 
 
 $Pkg install git
 
-$Git clone https://github.com/kevenpratico/Termux-color
+$git clone https://github.com/kevenpratico/Termux-color
 
 $Cd Termux-Color
 
 $Python3 Termux-Color.py 
+
