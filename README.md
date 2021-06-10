@@ -12,8 +12,6 @@ $Apt install python
 
 $Apt install python3
 
-$git clone 
-
 $Apt install pkg 
 
 $Pkg install git
